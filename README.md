@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Bobbydelhi/Bobbydelhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Bobby
 
-Here are some ideas to get you started:
+Find Here my Linkdein
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is me
+
+<img width="195" height="259" alt="image" src="https://github.com/user-attachments/assets/5644b1db-f089-40ec-b288-3f5aca49a4f3" />
+
+I am studying in [Cuatrovientos](https://www.cuatrovientos.org/)
+
+My skills are:
+- Learning anything new
+- Operative systems
+- Web Applications Deployment
+  
