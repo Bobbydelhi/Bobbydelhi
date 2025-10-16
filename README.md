@@ -1,17 +1,30 @@
-## Hi there 👋
+## 👋 Hi there! I'm Bobby
 
-I am Bobby
+💻 I'm currently studying **Administración de Sistemas Informáticos en Red (ASIR)** at [Cuatrovientos](https://www.cuatrovientos.org/).  
+🔐 I'm passionate about **Cybersecurity**, system administration, and learning new technologies every day.
 
-Find Here my Linkdein
+---
 
-This is me
+### 🧠 About Me
+- 📚 Constantly improving my skills in **networking, operating systems, and web application deployment**.  
+- 🛠️ Interested in **ethical hacking**, **network security**, and **system automation**.  
+- 🚀 Always eager to take on new challenges and expand my knowledge.
 
-<img width="195" height="259" alt="image" src="https://github.com/user-attachments/assets/5644b1db-f089-40ec-b288-3f5aca49a4f3" />
+---
 
-I am studying in [Cuatrovientos](https://www.cuatrovientos.org/)
+### ⚙️ My Skills
+- 🧩 **Operating Systems** (Linux, Windows Server)  
+- 🌐 **Web Application Deployment**  
+- 🔒 **Cybersecurity Basics**  
+- 📡 **Networking & System Administration**  
+- 💡 **Fast Learner**  
 
-My skills are:
-- Learning anything new
-- Operative systems
-- Web Applications Deployment
-  
+---
+
+### 🌍 Connect with Me
+📸 [Instagram – @buuudeelii._](https://www.instagram.com/buuudeelii._/)  
+
+---
+
+> “The quieter you become, the more you are able to hear.”  
+> — *Ram Dass*
