@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Bobby
 
-💻 I'm currently studying **Administración de Sistemas Informáticos en Red (ASIR)** at [Cuatrovientos](https://www.cuatrovientos.org/).  
+
 🔐 I'm passionate about **Cybersecurity**, system administration, and learning new technologies every day.
 
 ---
