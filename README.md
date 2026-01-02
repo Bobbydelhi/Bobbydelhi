@@ -21,8 +21,6 @@
 
 ---
 
-### 🌍 Connect with Me
-📸 [Instagram – @buuudeelii._](https://www.instagram.com/buuudeelii._/)  
 
 ---
 
