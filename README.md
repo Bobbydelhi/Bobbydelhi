@@ -8,11 +8,11 @@
 <tr>
 <td width="60%">
 
-👋 Hi there! I'm **Bobby**. I'm passionate about **Cybersecurity**, system administration, and learning new technologies every day.
+ Hi there! I'm **Bobby**. I'm passionate about **Cybersecurity**, system administration, and learning new technologies every day.
 
-📚 **Constantly improving:** Networking, operating systems, and web application deployment. <br>
-🛠️ **Interested in:** Ethical hacking, network security, and system automation. <br>
-🚀 **Mindset:** Fast learner, always eager to take on new challenges and expand my knowledge. <br>
+ **Constantly improving:** Networking, operating systems, and web application deployment. <br>
+ **Interested in:** Ethical hacking, network security, and system automation. <br>
+ **Mindset:** Fast learner, always eager to take on new challenges and expand my knowledge. <br>
 
 </td>
 <td width="40%" align="center">
@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-## ⚙️ Skills and Tools
+##  Skills and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
